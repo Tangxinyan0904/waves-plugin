@@ -1,0 +1,554 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "wiki": "kurobbs",
+    "wikiType": "9",
+    "kind": "weapon",
+    "kindLabel": "武器",
+    "catalogueId": 1106,
+    "catalogueItemId": 23547,
+    "entryId": "1538900888550293504",
+    "url": "https://wiki.kurobbs.com/mc/item/1538900888550293504",
+    "fetchedAt": "2026-08-23T03:23:14+08:00"
+  },
+  "entry": {
+    "id": "1538900888550293504",
+    "name": "云琅",
+    "catalogueName": "云琅"
+  },
+  "parsed": {
+    "sections": [
+      {
+        "module": "武器信息",
+        "component": "基础信息",
+        "tab": "",
+        "text": "名称\n云琅\n武器类型\n迅刀\n稀有度\n实装版本\nV3.6"
+      },
+      {
+        "module": "武器信息",
+        "component": "武器描述",
+        "tab": "",
+        "text": "却邪\n谐振(1/2/3/4/5)阶\n攻击提升（12%/15%/18%/21%/24%）。附加集谐偏移后，获得气动伤害加成提升（11.2%/14%/16.8%/19.6%/22.4%），持续2秒，最多叠加5层，该效果每0.5秒可触发1次。达到上限后，获得下列效果：\n·该气动伤害加成提升效果持续时间延长至30秒。\n·效果持续期间，气动伤害无视目标（10%/12.5%/15%/17.5%/20%）的防御。\n云烟缭绕，凝水天一碧；疏影横斜，伴落英缤纷。\n愿执玉锋入尘间，涤荡浊岁，斩却诸邪。\n获取途径：唤取"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "",
+        "text": "详细数值\n攻击力：500\n暴击率：36.0%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "初始",
+        "text": "详细数值\n攻击力：40\n暴击率：8.0%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "20级",
+        "text": "详细数值\n攻击力（突破前）：104\n攻击力（突破后）：130\n暴击率：14.2%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "40级",
+        "text": "详细数值\n攻击力（突破前）：198\n攻击力（突破后）：224\n暴击率：20.4%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "50级",
+        "text": "详细数值\n攻击力（突破前）：258\n攻击力（突破后）：285\n暴击率：23.5%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "60级",
+        "text": "详细数值\n攻击力（突破前）：318\n攻击力（突破后）：345\n暴击率：26.6%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "70级",
+        "text": "详细数值\n攻击力（突破前）：379\n攻击力（突破后）：405\n暴击率：29.7%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "80级",
+        "text": "详细数值\n攻击力（突破前）：439\n攻击力（突破后）：466\n暴击率：32.8%"
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "90级",
+        "text": "详细数值\n攻击力：500\n暴击率：36.0%"
+      },
+      {
+        "module": "突破材料",
+        "component": "突破材料总览（主要掉落方式与掉落物）",
+        "tab": "",
+        "text": "大世界敌人掉落\n低频锐棱声核 * 6\n中频锐棱声核 * 6\n高频锐棱声核 * 10\n全频锐棱声核 * 12\n凝素领域副本掉落\n残翼偏振体 * 6\n单翼偏振体 * 8\n多翼偏振体 * 6\n叠翼偏振体 * 20\n完成任何游戏内容\n贝币 * 330000"
+      },
+      {
+        "module": "突破材料",
+        "component": "突破材料详细数据（按每次突破等级划分）",
+        "tab": "",
+        "text": "20级\n低频锐棱声核 * 6\n贝币 * 10000\n40级\n中频锐棱声核 * 6\n残翼偏振体 * 6\n贝币 * 20000\n50级\n高频锐棱声核 * 4\n单翼偏振体 * 8\n贝币 * 40000\n60级\n高频锐棱声核 * 6\n多翼偏振体 * 6\n贝币 * 60000\n70级\n全频锐棱声核 * 4\n叠翼偏振体 * 8\n贝币 * 80000\n80级\n全频锐棱声核 * 8\n叠翼偏振体 * 12\n贝币 * 120000"
+      }
+    ],
+    "tables": [
+      {
+        "module": "武器信息",
+        "component": "基础信息",
+        "tab": "",
+        "rows": [
+          [
+            ""
+          ],
+          [
+            "名称",
+            "云琅"
+          ],
+          [
+            "武器类型",
+            "迅刀"
+          ],
+          [
+            "稀有度",
+            ""
+          ],
+          [
+            "实装版本",
+            "V3.6"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "武器描述",
+        "tab": "",
+        "rows": [
+          [
+            "却邪\n谐振(1/2/3/4/5)阶\n攻击提升（12%/15%/18%/21%/24%）。附加集谐偏移后，获得气动伤害加成提升（11.2%/14%/16.8%/19.6%/22.4%），持续2秒，最多叠加5层，该效果每0.5秒可触发1次。达到上限后，获得下列效果：\n·该气动伤害加成提升效果持续时间延长至30秒。\n·效果持续期间，气动伤害无视目标（10%/12.5%/15%/17.5%/20%）的防御。"
+          ],
+          [
+            "云烟缭绕，凝水天一碧；疏影横斜，伴落英缤纷。\n愿执玉锋入尘间，涤荡浊岁，斩却诸邪。"
+          ],
+          [
+            "获取途径：唤取"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力：500\n暴击率：36.0%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "初始",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力：40\n暴击率：8.0%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "20级",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力（突破前）：104\n攻击力（突破后）：130\n暴击率：14.2%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "40级",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力（突破前）：198\n攻击力（突破后）：224\n暴击率：20.4%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "50级",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力（突破前）：258\n攻击力（突破后）：285\n暴击率：23.5%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "60级",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力（突破前）：318\n攻击力（突破后）：345\n暴击率：26.6%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "70级",
+        "rows": [
+          [
+            "详细数值",
+            ""
+          ],
+          [
+            "攻击力（突破前）：379\n攻击力（突破后）：405\n暴击率：29.7%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "80级",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力（突破前）：439\n攻击力（突破后）：466\n暴击率：32.8%"
+          ]
+        ]
+      },
+      {
+        "module": "武器信息",
+        "component": "详细面板",
+        "tab": "90级",
+        "rows": [
+          [
+            "详细数值"
+          ],
+          [
+            "攻击力：500\n暴击率：36.0%"
+          ]
+        ]
+      },
+      {
+        "module": "突破材料",
+        "component": "突破材料总览（主要掉落方式与掉落物）",
+        "tab": "",
+        "rows": [
+          [
+            "大世界敌人掉落",
+            "低频锐棱声核 * 6",
+            "中频锐棱声核 * 6",
+            "高频锐棱声核 * 10",
+            "全频锐棱声核 * 12"
+          ],
+          [
+            "凝素领域副本掉落",
+            "残翼偏振体 * 6",
+            "单翼偏振体 * 8",
+            "多翼偏振体 * 6",
+            "叠翼偏振体 * 20"
+          ],
+          [
+            "完成任何游戏内容",
+            "贝币 * 330000"
+          ]
+        ]
+      },
+      {
+        "module": "突破材料",
+        "component": "突破材料详细数据（按每次突破等级划分）",
+        "tab": "",
+        "rows": [
+          [
+            "20级",
+            "低频锐棱声核 * 6",
+            "",
+            "贝币 * 10000"
+          ],
+          [
+            "40级",
+            "中频锐棱声核 * 6",
+            "残翼偏振体 * 6",
+            "贝币 * 20000"
+          ],
+          [
+            "50级",
+            "高频锐棱声核 * 4",
+            "单翼偏振体 * 8",
+            "贝币 * 40000"
+          ],
+          [
+            "60级",
+            "高频锐棱声核 * 6",
+            "多翼偏振体 * 6",
+            "贝币 * 60000"
+          ],
+          [
+            "70级",
+            "全频锐棱声核 * 4",
+            "叠翼偏振体 * 8",
+            "贝币 * 80000"
+          ],
+          [
+            "80级",
+            "全频锐棱声核 * 8",
+            "叠翼偏振体 * 12",
+            "贝币 * 120000"
+          ]
+        ]
+      }
+    ],
+    "multiplierRows": []
+  },
+  "raw": {
+    "id": "1538900888550293504",
+    "name": "云琅",
+    "orgFullName": "武器组",
+    "orgTree": {
+      "id": 3,
+      "key": null,
+      "name": "全部",
+      "parentId": null,
+      "level": 0,
+      "sort": null,
+      "children": [
+        {
+          "id": 327,
+          "key": null,
+          "name": "武器组",
+          "parentId": null,
+          "level": 1,
+          "sort": null,
+          "children": null
+        }
+      ]
+    },
+    "orgId": 327,
+    "orgIdList": [
+      327,
+      3
+    ],
+    "content": {
+      "mediaList": [],
+      "title": "云琅",
+      "modules": [
+        {
+          "title": "武器信息",
+          "components": [
+            {
+              "size": "small",
+              "type": "basic-component",
+              "title": "基础信息",
+              "content": "<table style=\"border-collapse: collapse; width: 100.02%; height: 557.988px;\" border=\"1\"><colgroup><col style=\"width: 43.9359%;\"><col style=\"width: 56.075%;\"></colgroup>\n<tbody>\n<tr style=\"height: 102.988px;\">\n<td style=\"text-align: center; vertical-align: middle; height: 102.988px;\" colspan=\"2\"><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/dfb364deeaf142b4ae90142418502a8a20260817.png\" alt=\"blob:https://wiki.kurobbs.com/f8dd98e8-09fb-4ce2-bc8f-ddd0a0b9a413\"><br></span></td>\n</tr>\n<tr style=\"height: 23.75px;\">\n<td style=\"height: 23.75px; text-align: center;\"><span style=\"font-size: 16px;\"><strong>名称</strong></span></td>\n<td style=\"height: 23.75px; text-align: center;\"><span style=\"font-size: 16px;\">云琅</span></td>\n</tr>\n<tr style=\"height: 23.75px;\">\n<td style=\"height: 23.75px; text-align: center;\"><span style=\"font-size: 16px;\"><strong>武器类型</strong></span></td>\n<td style=\"height: 23.75px; text-align: center;\"><span style=\"font-size: 16px;\">迅刀</span></td>\n</tr>\n<tr style=\"height: 23.75px;\">\n<td style=\"height: 15px; text-align: center;\"><span style=\"font-size: 16px;\"><strong>稀有度</strong></span></td>\n<td style=\"height: 15px; text-align: center;\"><span style=\"font-size: 16px; color: rgb(241, 196, 15);\" data-darkreader-inline-color=\"\"><strong><img src=\"https://prod-alicdn-community.kurobbs.com/forum/447c67ca0df441a5b0dda02a5588d53620240427.png\" alt=\"\" width=\"158\" height=\"52\"></strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center; height: 23.75px;\"><span style=\"font-size: 16px;\"><strong>实装版本</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-size: 16px; color: rgb(0, 0, 0);\" data-darkreader-inline-color=\"\">V3.6</span></td>\n</tr>\n</tbody>\n</table>",
+              "collapse": false,
+              "mainStyle": {
+                "backgroundColor": "#FAFAFA"
+              },
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "#EFEDEA",
+                "backgroundImage": "https://prod-alicdn-community.kurobbs.com/forum/wikimcbg.png",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            },
+            {
+              "size": "medium",
+              "type": "basic-component",
+              "title": "武器描述",
+              "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px; height: 191.276px;\" border=\"1\"><colgroup><col style=\"width: 100.001%;\"></colgroup>\n<tbody>\n<tr style=\"height: 134.731px;\">\n<td style=\"height: 134.731px;\">\n<p><span style=\"font-size: 18px; color: rgb(53, 152, 219); background-color: rgb(255, 255, 255);\"><strong><strong>却邪</strong></strong></span></p>\n<p><span style=\"font-size: 16px;\">谐振(<span style=\"color: rgb(190, 164, 102);\"><strong>1/2/3/4/5</strong></span>)阶</span></p>\n<p><span style=\"font-size: 16px;\">攻击提升（<span class=\"param\"><span style=\"color: rgb(186, 147, 45);\"><strong>12%/15%/18%/21%/24%</strong></span>）</span>。附加集谐偏移后，获得气动伤害加成提升（<span class=\"param\"><span style=\"color: rgb(186, 147, 45);\"><strong>11.2%/14%/16.8%/19.6%/22.4%</strong></span>）</span>，持续2秒，最多叠加5层，该效果每0.5秒可触发1次。达到上限后，获得下列效果：<br>&middot;该气动伤害加成提升效果持续时间延长至30秒。<br>&middot;效果持续期间，气动伤害无视目标（<span class=\"param\"><span style=\"color: rgb(186, 147, 45);\"><strong>10%/12.5%/15%/17.5%/20%</strong></span>）</span>的防御。</span></p>\n</td>\n</tr>\n<tr style=\"height: 27.9948px;\">\n<td style=\"height: 27.9948px;\">\n<p>云烟缭绕，凝水天一碧；疏影横斜，伴落英缤纷。</p>\n<p>愿执玉锋入尘间，涤荡浊岁，斩却诸邪。</p>\n</td>\n</tr>\n<tr style=\"height: 28.5503px;\">\n<td style=\"height: 28.5503px;\"><span style=\"font-size: 16px;\"><strong>获取途径：</strong>唤取</span></td>\n</tr>\n</tbody>\n</table>",
+              "collapse": false,
+              "mainStyle": {
+                "backgroundColor": "#FAFAFA"
+              },
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "#EFEDEA",
+                "backgroundImage": "https://prod-alicdn-community.kurobbs.com/forum/wikimcbg.png",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            },
+            {
+              "size": "medium",
+              "tabs": [
+                {
+                  "title": "初始",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\" rowspan=\"2\">\n<p>攻击力：40</p>\n<hr>\n<p>暴击率：8.0%</p>\n</td>\n</tr>\n<tr></tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "20级",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px; height: 143.958px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr style=\"height: 27.9948px;\">\n<td style=\"background-color: rgb(230, 230, 230); height: 27.9948px;\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr style=\"height: 87.9688px;\">\n<td style=\"height: 87.9688px;\" colspan=\"6\" rowspan=\"2\">\n<p>攻击力（突破前）：104</p>\n<p>攻击力（突破后）：130</p>\n<hr>\n<p>暴击率：14.2%</p>\n</td>\n</tr>\n<tr style=\"height: 27.9948px;\"></tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "40级",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力（突破前）：198</p>\n<p>攻击力（突破后）：224</p>\n<hr>\n<p>暴击率：20.4%</p>\n</td>\n</tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "50级",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力（突破前）：258</p>\n<p>攻击力（突破后）：285</p>\n<hr>\n<p>暴击率：23.5%</p>\n</td>\n</tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "60级",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力（突破前）：318</p>\n<p>攻击力（突破后）：345</p>\n<hr>\n<p>暴击率：26.6%</p>\n</td>\n</tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "70级",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"3\"><strong>详细数值</strong></td>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"3\">&nbsp;</td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力（突破前）：379</p>\n<p>攻击力（突破后）：405</p>\n<hr>\n<p>暴击率：29.7%</p>\n</td>\n</tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "80级",
+                  "active": false,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力（突破前）：439</p>\n<p>攻击力（突破后）：466</p>\n<hr>\n<p>暴击率：32.8%</p>\n</td>\n</tr>\n</tbody>\n</table>"
+                },
+                {
+                  "title": "90级",
+                  "active": true,
+                  "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力：500</p>\n<hr>\n<p>暴击率：36.0%</p>\n</td>\n</tr>\n</tbody>\n</table>"
+                }
+              ],
+              "type": "tabs-component",
+              "title": "详细面板",
+              "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.6589%;\"><col style=\"width: 16.5987%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"background-color: rgb(230, 230, 230);\" colspan=\"6\"><strong>详细数值</strong></td>\n</tr>\n<tr>\n<td colspan=\"6\">\n<p>攻击力：500</p>\n<hr>\n<p>暴击率：36.0%</p>\n</td>\n</tr>\n</tbody>\n</table>",
+              "collapse": false,
+              "tabsType": "text",
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "#EFEDEA",
+                "backgroundImage": "https://prod-alicdn-community.kurobbs.com/forum/wikimcbg.png",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        },
+        {
+          "title": "突破材料",
+          "components": [
+            {
+              "size": "large",
+              "type": "basic-component",
+              "title": "突破材料总览（主要掉落方式与掉落物）",
+              "content": "<table style=\"border-collapse: collapse; width: 100%; border-width: 1px;\" border=\"1\"><colgroup><col style=\"width: 6%;\"><col style=\"width: 20%;\"><col style=\"width: 20%;\"><col style=\"width: 20%;\"><col style=\"width: 20%;\"></colgroup>\n<tbody>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-size: 16px;\">大世界敌人掉落</span></td>\n<td style=\"text-align: left;\">\n<p style=\"text-align: center;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/5186fd2bc57f49b6aaed168a5cea08ba20251225.png\" alt=\"\" width=\"90\" height=\"90\"><span style=\"font-size: 16px;\"> <a href=\"https://wiki.kurobbs.com/mc/item/1446635372963983360\">低频锐棱声核</a> * <strong>6</strong></span></p>\n</td>\n<td style=\"text-align: center;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/98b87c4891fa4cbf8f759d1646e7320920251225.png\" alt=\"\" width=\"90\" height=\"90\"><span style=\"font-size: 16px;\">&nbsp;<a href=\"https://wiki.kurobbs.com/mc/item/1446633814536921088\">中频锐棱声核</a>&nbsp;* <strong>6</strong></span></td>\n<td style=\"text-align: center;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/592c806c01334b2087ec2700bb4ed6db20251225.png\" alt=\"\" width=\"90\" height=\"90\"><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1446636856481062912\">高频锐棱声核</a> * <strong>10</strong></span></td>\n<td style=\"text-align: center;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/bc73313c52c14b2197d383f31991329520251225.png\" alt=\"\" width=\"90\" height=\"90\"><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1446638304712638464\">全频锐棱声核</a>&nbsp;* <strong>12</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-size: 16px;\">凝素领域副本掉落</span></td>\n<td style=\"text-align: center;\"><a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228402999284547584\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/797e9abc7e9d4f23b09948085ddcf4e520251222.png\" alt=\"\" width=\"90\" height=\"90\"></a><span style=\"font-size: 16px;\"> <a href=\"https://wiki.kurobbs.com/mc/item/1446635040453378048\">残翼偏振体</a>&nbsp;* <strong>6</strong></span></td>\n<td style=\"text-align: center;\"><span style=\"font-size: 16px;\"><a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228402999284547584\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/12db014b4d9048b09099dfc3fc7c353020251222.png\" alt=\"\" width=\"90\" height=\"90\"></a> <a href=\"https://wiki.kurobbs.com/mc/item/1446633512053194752\">单翼偏振体</a>&nbsp;*&nbsp;<strong>8</strong></span></td>\n<td style=\"text-align: center;\"><a href=\"https://wiki.kurobbs.com/mc/item/1228414386790547456\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/1438bd567a2a4224ae8e928d0070a92120251222.png\" alt=\"\" width=\"90\" height=\"90\"></a><span style=\"font-size: 16px;\"> <a href=\"https://wiki.kurobbs.com/mc/item/1446636650563026944\">多翼偏振体</a>&nbsp;* <strong>6</strong></span></td>\n<td style=\"text-align: center;\"><a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228414540012666880\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/9a747dee8c3044f7bbe44e7009aab4fc20251222.png\" alt=\"\" width=\"90\" height=\"90\"></a><span style=\"font-size: 16px;\"> <a href=\"https://wiki.kurobbs.com/mc/item/1446638031117959168\">叠翼偏振体</a>&nbsp;* <strong>20</strong></span></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><span style=\"font-size: 16px;\">完成任何游戏内容</span></td>\n<td style=\"text-align: center;\" colspan=\"4\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a><span style=\"font-size: 16px;\"> <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a> * <strong>330000</strong></span></td>\n</tr>\n</tbody>\n</table>",
+              "collapse": false,
+              "mainStyle": {
+                "backgroundColor": "#FAFAFA"
+              },
+              "titleStyle": {
+                "color": "#333",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "#EFEDEA",
+                "backgroundImage": "https://prod-alicdn-community.kurobbs.com/forum/wikimcbg.png",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            },
+            {
+              "size": "large",
+              "type": "basic-component",
+              "title": "突破材料详细数据（按每次突破等级划分）",
+              "content": "<table style=\"border-collapse: collapse; width: 100%; height: 41.5538px; border-width: 1px; border-color: rgb(0, 0, 0);\" border=\"1\"><colgroup><col style=\"width: 6.33675%;\"><col style=\"width: 28.9062%;\"><col style=\"width: 33.0732%;\"><col style=\"width: 31.6838%;\"></colgroup>\n<tbody>\n<tr style=\"height: 41.5538px;\">\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle; height: 41.5538px;\"><span style=\"font-size: 16px;\">20级</span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/5186fd2bc57f49b6aaed168a5cea08ba20251225.png\" alt=\"\" width=\"90\" height=\"90\"> <a href=\"https://wiki.kurobbs.com/mc/item/1446635372963983360\">低频锐棱声核</a> * <strong><span style=\"font-size: 18px;\">6</span></strong></span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1; text-align: left;\"><span style=\"font-size: 16px;\">&nbsp;</span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">&nbsp; <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a></span><span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a></span><span style=\"font-size: 16px;\"> </span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">*</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"> 1000</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">0<span style=\"font-size: 18px;\"> &nbsp;</span></span></span></span></span></span></span></span></span></td>\n</tr>\n<tr>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\">40级</span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/98b87c4891fa4cbf8f759d1646e7320920251225.png\" alt=\"\" width=\"90\" height=\"90\">&nbsp;<a href=\"https://wiki.kurobbs.com/mc/item/1446633814536921088\">中频锐棱声核</a> *&nbsp;<span style=\"font-size: 18px;\"><strong>6</strong></span></span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1; text-align: left;\"><span style=\"font-size: 16px;\"><a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228402999284547584\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/797e9abc7e9d4f23b09948085ddcf4e520251222.png\" alt=\"\" width=\"90\" height=\"90\"></a> <a href=\"https://wiki.kurobbs.com/mc/item/1446635040453378048\">残翼偏振体</a>&nbsp;*<span style=\"font-size: 18px;\"><strong> 6</strong></span><br></span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">&nbsp; <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a></span><span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a></span><span style=\"font-size: 16px;\"> </span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">*</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"> 20000</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\">50级</span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/592c806c01334b2087ec2700bb4ed6db20251225.png\" alt=\"\" width=\"90\" height=\"90\"><a href=\"https://wiki.kurobbs.com/mc/item/1446636856481062912\">高频锐棱声核</a> * <span style=\"font-size: 18px;\"><strong>4</strong></span></span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1; text-align: left;\"><span style=\"font-size: 16px;\">&nbsp;<a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228402999284547584\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/12db014b4d9048b09099dfc3fc7c353020251222.png\" alt=\"\" width=\"90\" height=\"90\"></a> <a href=\"https://wiki.kurobbs.com/mc/item/1446633512053194752\">单翼偏振体</a>&nbsp;* <strong>8</strong></span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">&nbsp; <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a></span><span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a></span><span style=\"font-size: 16px;\"> </span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">*</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"> 40000</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\">60级</span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/592c806c01334b2087ec2700bb4ed6db20251225.png\" alt=\"\" width=\"90\" height=\"90\"><a href=\"https://wiki.kurobbs.com/mc/item/1446636856481062912\">高频锐棱声核</a> * <span style=\"font-size: 18px;\"><strong>6</strong></span></span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1; text-align: left;\"><span style=\"font-size: 16px;\">&nbsp;<a href=\"https://wiki.kurobbs.com/mc/item/1228414386790547456\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/1438bd567a2a4224ae8e928d0070a92120251222.png\" alt=\"\" width=\"90\" height=\"90\"></a> <a href=\"https://wiki.kurobbs.com/mc/item/1446636650563026944\">多翼偏振体</a> * <strong>6</strong></span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">&nbsp; <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a></span><span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a></span><span style=\"font-size: 16px;\"> </span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">*</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"> 60000</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\">70级</span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/bc73313c52c14b2197d383f31991329520251225.png\" alt=\"\" width=\"90\" height=\"90\"><a href=\"https://wiki.kurobbs.com/mc/item/1446638304712638464\">全频锐棱声核</a> *&nbsp;<span style=\"font-size: 18px;\"><strong>4</strong></span></span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1; text-align: left;\"><span style=\"font-size: 16px;\">&nbsp;<a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228414540012666880\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/9a747dee8c3044f7bbe44e7009aab4fc20251222.png\" alt=\"\" width=\"90\" height=\"90\"></a> <a href=\"https://wiki.kurobbs.com/mc/item/1446638031117959168\">叠翼偏振体</a> * <strong>8</strong></span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">&nbsp; <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a></span><span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a></span><span style=\"font-size: 16px;\"> </span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">*</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"> 80000</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\">80级</span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\"><span style=\"font-size: 16px;\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/bc73313c52c14b2197d383f31991329520251225.png\" alt=\"\" width=\"90\" height=\"90\"><a href=\"https://wiki.kurobbs.com/mc/item/1446638304712638464\">全频锐棱声核</a> *&nbsp;<strong><span style=\"font-size: 18px;\">8</span></strong></span></td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1; text-align: left;\"><span style=\"font-size: 16px;\">&nbsp;<a style=\"display: inline;\" href=\"https://wiki.kurobbs.com/mc/item/1228414540012666880\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/9a747dee8c3044f7bbe44e7009aab4fc20251222.png\" alt=\"\" width=\"90\" height=\"90\"></a> <a href=\"https://wiki.kurobbs.com/mc/item/1446638031117959168\">叠翼偏振体</a> * <strong>12</strong></span></p>\n</td>\n<td style=\"border-color: rgb(0, 0, 0); vertical-align: middle;\">\n<p style=\"line-height: 1;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">&nbsp; <a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\"><img src=\"https://prod-alicdn-community.kurobbs.com/forum/0a8b92b7afbc40db84662c14482569f720240519.png\" alt=\"\" width=\"90\" height=\"90\"></a></span><span style=\"font-size: 16px;\">&nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 16px;\"><a href=\"https://wiki.kurobbs.com/mc/item/1241548696255807488\">贝币</a></span><span style=\"font-size: 16px;\"> </span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\">*</span></span></span></span></span></span><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"><span style=\"font-size: 18px;\"><span style=\"font-size: 16px;\"> 120000</span></span></span></span></span></span></span></span></p>\n</td>\n</tr>\n</tbody>\n</table>",
+              "collapse": false,
+              "mainStyle": {
+                "backgroundColor": "#FAFAFA"
+              },
+              "titleStyle": {
+                "color": "#000",
+                "opacity": "100%",
+                "textAlign": "left",
+                "backgroundColor": "#FAFAFA",
+                "backgroundImage": "",
+                "backgroundPositionX": "100%",
+                "backgroundPositionY": "0",
+                "backgroundImageWidth": 0,
+                "backgroundImageHeight": 0
+              }
+            }
+          ],
+          "titleDisabled": true
+        }
+      ],
+      "story": {}
+    },
+    "currentVersion": "4.0",
+    "onlineVersion": "4.0",
+    "browseCount": 4876,
+    "lastUpdateTime": "2026-08-20",
+    "lastEditUserName": "布偶兔",
+    "userScoreList": [
+      {
+        "userId": 15657382,
+        "userName": "布偶兔",
+        "headCode": "221",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/avatar/20260518/4a2cbdfc26be42dbbd9b1664547261dd20260518.png",
+        "status": 0,
+        "score": 15,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=15657382",
+        "lastOperator": true
+      },
+      {
+        "userId": 10131981,
+        "userName": "是澄皎嗷",
+        "headCode": "47",
+        "userHeadUrl": "https://prod-alicdn-community.kurobbs.com/newHead/aki/anke.png",
+        "status": 0,
+        "score": 35,
+        "userCenterUrl": "https://www.kurobbs.com/person-center?id=10131981",
+        "lastOperator": true
+      }
+    ],
+    "status": 2,
+    "checkStatus": 0
+  }
+}
